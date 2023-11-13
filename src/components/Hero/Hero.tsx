@@ -10,9 +10,9 @@ function Hero() {
         <p className={styles.hero__intro}>Hello 👋, I am</p>
         <h2>John Seredich</h2>
         <p className={styles.hero__desc}>
-          I'm a Web Developer with experience in planning, developing,
-          responsive, and accessible websites. Passionate about developing and
-          testing web applications.
+          I have experience in planning, developing, and designing graphics as a
+          Graphic Designer. I am passionate about delivering complete products
+          and enjoy the process of developing them.
         </p>
         <div className={styles.hero__button_container}>
           <a href={resumeLink} target="_blank" rel="noreferrer">
