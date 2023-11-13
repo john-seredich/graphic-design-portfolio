@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/graphic-design-portfolio/static/css/main.a9d0ed0d.css",
+    "main.js": "/graphic-design-portfolio/static/js/main.9da6dc52.js",
+    "static/media/genshin.png": "/graphic-design-portfolio/static/media/genshin.71ed58718f1b3d4e99a3.png",
+    "static/media/pokedex.png": "/graphic-design-portfolio/static/media/pokedex.7b56caf5f09601eb1709.png",
+    "static/media/dashboard.png": "/graphic-design-portfolio/static/media/dashboard.a01c11e638c68e05d0f1.png",
+    "static/media/hero-main.svg": "/graphic-design-portfolio/static/media/hero-main.908bc3b5ae91f07a581e26cdacd82161.svg",
+    "index.html": "/graphic-design-portfolio/index.html",
+    "main.a9d0ed0d.css.map": "/graphic-design-portfolio/static/css/main.a9d0ed0d.css.map",
+    "main.9da6dc52.js.map": "/graphic-design-portfolio/static/js/main.9da6dc52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9d0ed0d.css",
+    "static/js/main.9da6dc52.js"
+  ]
+}
