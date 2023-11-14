@@ -1,17 +1,44 @@
 {
   "files": {
-    "main.css": "/graphic-design-portfolio/static/css/main.a9d0ed0d.css",
-    "main.js": "/graphic-design-portfolio/static/js/main.9da6dc52.js",
+    "main.css": "/graphic-design-portfolio/static/css/main.67a2fa51.css",
+    "main.js": "/graphic-design-portfolio/static/js/main.b0894656.js",
+    "static/media/11.png": "/graphic-design-portfolio/static/media/11.41a5a8c2fa5025853807.png",
+    "static/media/9.png": "/graphic-design-portfolio/static/media/9.be91f14fb05f5f76e7f6.png",
+    "static/media/13.png": "/graphic-design-portfolio/static/media/13.3baf54b21704eefa66af.png",
+    "static/media/6.png": "/graphic-design-portfolio/static/media/6.6890c1a4f437a8e59f45.png",
+    "static/media/20.png": "/graphic-design-portfolio/static/media/20.66c8ed42779ed990fc29.png",
+    "static/media/14.png": "/graphic-design-portfolio/static/media/14.f710a276ac04a6c0d9d4.png",
+    "static/media/22.png": "/graphic-design-portfolio/static/media/22.f844e7ddd98cb96fc13c.png",
+    "static/media/28.png": "/graphic-design-portfolio/static/media/28.6c050100784e477aaa29.png",
+    "static/media/10.png": "/graphic-design-portfolio/static/media/10.4ff19e205f19d9a2a8ed.png",
+    "static/media/1.png": "/graphic-design-portfolio/static/media/1.ce250a1e9424c141bb94.png",
+    "static/media/16.png": "/graphic-design-portfolio/static/media/16.e719e9fb735b5fa8a9d6.png",
+    "static/media/8.png": "/graphic-design-portfolio/static/media/8.9b2d02cf3e3a9dcdb1d8.png",
+    "static/media/5.png": "/graphic-design-portfolio/static/media/5.b3658edc08a869932221.png",
+    "static/media/2.png": "/graphic-design-portfolio/static/media/2.51984843a8edc7a67823.png",
     "static/media/genshin.png": "/graphic-design-portfolio/static/media/genshin.71ed58718f1b3d4e99a3.png",
+    "static/media/17.png": "/graphic-design-portfolio/static/media/17.41314dc4bc36250fc375.png",
+    "static/media/29.png": "/graphic-design-portfolio/static/media/29.c4ab81979568b566be29.png",
+    "static/media/4.png": "/graphic-design-portfolio/static/media/4.0b83d6313f942a4160f7.png",
+    "static/media/15.png": "/graphic-design-portfolio/static/media/15.1fea2c21a0076574c25c.png",
+    "static/media/25.png": "/graphic-design-portfolio/static/media/25.2746b9b3607ad49678e8.png",
+    "static/media/12.png": "/graphic-design-portfolio/static/media/12.2124d5318cf9819d6853.png",
+    "static/media/26.png": "/graphic-design-portfolio/static/media/26.e85b6de1d62f659cf3cd.png",
+    "static/media/19.png": "/graphic-design-portfolio/static/media/19.bb780a734fcc3ca1f800.png",
+    "static/media/27.png": "/graphic-design-portfolio/static/media/27.394e080b188dfe3f4605.png",
     "static/media/pokedex.png": "/graphic-design-portfolio/static/media/pokedex.7b56caf5f09601eb1709.png",
     "static/media/dashboard.png": "/graphic-design-portfolio/static/media/dashboard.a01c11e638c68e05d0f1.png",
-    "static/media/hero-main.svg": "/graphic-design-portfolio/static/media/hero-main.908bc3b5ae91f07a581e26cdacd82161.svg",
+    "static/media/hero-main.svg": "/graphic-design-portfolio/static/media/hero-main.45b7f095382275096f12d7965cacbed1.svg",
+    "static/media/7.png": "/graphic-design-portfolio/static/media/7.c60aa1959d1d9be1fe34.png",
+    "static/media/18.png": "/graphic-design-portfolio/static/media/18.a1e6a4954f682855439b.png",
+    "static/media/24.png": "/graphic-design-portfolio/static/media/24.5c0960b0a46b1d3b380b.png",
+    "static/media/23.png": "/graphic-design-portfolio/static/media/23.6e7cc010e90a0b7e0f48.png",
     "index.html": "/graphic-design-portfolio/index.html",
-    "main.a9d0ed0d.css.map": "/graphic-design-portfolio/static/css/main.a9d0ed0d.css.map",
-    "main.9da6dc52.js.map": "/graphic-design-portfolio/static/js/main.9da6dc52.js.map"
+    "main.67a2fa51.css.map": "/graphic-design-portfolio/static/css/main.67a2fa51.css.map",
+    "main.b0894656.js.map": "/graphic-design-portfolio/static/js/main.b0894656.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9d0ed0d.css",
-    "static/js/main.9da6dc52.js"
+    "static/css/main.67a2fa51.css",
+    "static/js/main.b0894656.js"
   ]
 }
