@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/graphic-design-portfolio/static/css/main.67a2fa51.css",
-    "main.js": "/graphic-design-portfolio/static/js/main.b0894656.js",
+    "main.js": "/graphic-design-portfolio/static/js/main.49cb24d0.js",
     "static/media/11.png": "/graphic-design-portfolio/static/media/11.41a5a8c2fa5025853807.png",
     "static/media/9.png": "/graphic-design-portfolio/static/media/9.be91f14fb05f5f76e7f6.png",
     "static/media/13.png": "/graphic-design-portfolio/static/media/13.3baf54b21704eefa66af.png",
@@ -35,10 +35,10 @@
     "static/media/23.png": "/graphic-design-portfolio/static/media/23.6e7cc010e90a0b7e0f48.png",
     "index.html": "/graphic-design-portfolio/index.html",
     "main.67a2fa51.css.map": "/graphic-design-portfolio/static/css/main.67a2fa51.css.map",
-    "main.b0894656.js.map": "/graphic-design-portfolio/static/js/main.b0894656.js.map"
+    "main.49cb24d0.js.map": "/graphic-design-portfolio/static/js/main.49cb24d0.js.map"
   },
   "entrypoints": [
     "static/css/main.67a2fa51.css",
-    "static/js/main.b0894656.js"
+    "static/js/main.49cb24d0.js"
   ]
 }
